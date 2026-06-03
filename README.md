@@ -26,8 +26,8 @@
 
 ## Connect With Me
 
-- LinkedIn: Add Your LinkedIn Link Here
-- Email: Add Your Email Here
+- LinkedIn: https://www.linkedin.com/in/kunal-sharma-b699b2385/
+- Email: kunaladi430@gmail.com
 
 
 ## Tech Stack
