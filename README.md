@@ -28,3 +28,7 @@
 
 - LinkedIn: Add Your LinkedIn Link Here
 - Email: Add Your Email Here
+
+## GitHub Stats
+
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaladi430-sys&show_icons=true&theme=tokyonight)
