@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Kunal Sharma
 
-<!--
-**kunaladi430-sys/kunaladi430-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at SRM Institute of Science and Technology (SRMIST), Chennai
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in Cybersecurity
+
+📚 Currently Learning Data Structures & Algorithms
+
+🚀 Open to Internships and Learning Opportunities
+
+## Skills
+
+- C++
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## Current Focus
+
+- Software Development
+- Problem Solving
+- Cybersecurity Fundamentals
+
+## Connect With Me
+
+- LinkedIn: Add Your LinkedIn Link Here
+- Email: Add Your Email Here
